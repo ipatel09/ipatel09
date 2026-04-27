@@ -1,113 +1,81 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
-</div>
+# Ishan Hirani
 
-<h1 align="center">Ishan Hirani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h1>
+**Data Engineer · AI/ML Engineer**
+&nbsp;·&nbsp; Government Engineering College, Rajkot &nbsp;·&nbsp; B.Tech AI & DS, 2026
+&nbsp;·&nbsp; Gujarat, India
 
-<p align="center">
-  <b>Data Engineer &nbsp;·&nbsp; AI/ML Engineer &nbsp;·&nbsp; B.Tech AI & DS 2026</b>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ishan-hirani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://www.kaggle.com/hiraniishan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
-  <a href="mailto:hiraniishan17@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Ishanhirani11&color=blueviolet&style=for-the-badge&label=VIEWS"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-hirani)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/hiraniishan)
+[![Gmail](https://img.shields.io/badge/hiraniishan17%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hiraniishan17@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK)
+![Profile Views](https://komarev.com/ghpvc/?username=Ishanhirani11&style=flat-square&color=grey)
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340"/>
+I build data pipelines and AI systems — the kind that run on a schedule, process real data, and don't break when no one is watching.
 
-### 👨‍💻 About Me
+On the engineering side, I've built multi-source ETL pipelines with Airflow orchestration, PostgreSQL storage, and three different ingestion strategies. On the AI side, I've implemented a Latent Diffusion Model from scratch — every component written by hand, no generation APIs. I care about systems that are modular, fault-tolerant, and actually work in production.
 
-- 🎓 Final-year **B.Tech AI & Data Science** @ GEC Rajkot
-- 🔧 Built a multi-source **job market pipeline** — 2,300+ records/day, Airflow + PostgreSQL
-- 🧠 Trained a **Latent Diffusion Model** from scratch in PyTorch — no APIs, pure architecture
-- 🎙️ Engineered **HIK**, a zero-cost offline voice assistant in 12 weeks
-- 💼 Open to **Data Engineer** & **AI/ML Engineer** roles — available in **15 days**
-- 📫 **hiraniishan17@gmail.com**
-
-<br clear="right"/>
+Open to **Data Engineer** and **AI/ML Engineer** roles. Available in 15 days.
 
 ---
 
-### 🚀 Projects
+## Projects
 
-#### [📊 Job Market Intelligence Pipeline](https://github.com/Ishanhirani11/job-market-pipeline)
-Scrapes **Naukri · LinkedIn · Indeed** → cleans into PostgreSQL → orchestrated by a **7-task daily Airflow DAG** → extracts 47+ skills via NLP → exports 6 datasets to Google Sheets. Runs every day at 09:00 AM.
+### [Job Market Intelligence Pipeline](https://github.com/Ishanhirani11/job-market-pipeline)
+Multi-source pipeline that monitors the Data Engineer job market daily. Scrapes **Naukri** via Selenium, **LinkedIn** via Requests, and **Indeed** via RapidAPI — three different ingestion strategies for three different site architectures. Cleans and stores 2,300+ records into a 4-table PostgreSQL schema. Orchestrated by a 7-task **Apache Airflow DAG** that runs every day at 09:00. Extracts 47+ DE skills from unstructured job descriptions using an NLP regex pipeline. Pushes 6 reporting datasets to Google Sheets.
 
-`Python` `PostgreSQL` `Apache Airflow` `Selenium` `SQLAlchemy` `RapidAPI` `Pandas`
-
----
-
-#### [🎨 Text-to-Image Generation — LDM from Scratch](https://github.com/Ishanhirani11/text-to-image-ldm)
-Implemented a complete **Latent Diffusion Model** — VAE (64×compression) · U-Net with cross-attention · DistilBERT text encoder · **1000-step DDPM** training · **50-step DDIM** inference · classifier-free guidance · Flickr30k dataset. Zero external generation APIs.
-
-`PyTorch` `Hugging Face` `DistilBERT` `DDPM/DDIM` `VAE` `U-Net` `Colab T4`
+`Python` `PostgreSQL` `Apache Airflow` `Selenium` `SQLAlchemy` `RapidAPI` `Pandas` `loguru`
 
 ---
 
-#### [🎙️ HIK — Voice-Based Virtual Assistant](https://github.com/Ishanhirani11/hik-voice-assistant)
-Zero-cost, offline-capable voice assistant — **9-stage pipeline** (wake word → VAD → dual STT → intent → skills → TTS) · Whisper + Vosk · ChromaDB long-term memory · 4-level TTS fallback · Electron GUI · runs on macOS & Windows. 40+ files, 12 weeks.
+### [Text-to-Image Generation — LDM from Scratch](https://github.com/Ishanhirani11/text-to-image-ldm)
+Full Latent Diffusion Model implemented in PyTorch without any external generation API. Built a VAE that compresses 64×64 images into an 8×8×4 latent space (64× reduction), a U-Net denoiser with self-attention and cross-attention, and a frozen DistilBERT text encoder producing 768-dim token embeddings for conditioning. Trained with a 1000-step DDPM scheduler using mixed precision and cosine LR. Inference runs in 50 steps via DDIM with classifier-free guidance at scale 7.5. Dataset: Flickr30k via Hugging Face. Device-agnostic: CUDA → MPS → CPU.
 
-`Python` `Whisper` `Vosk` `ChromaDB` `Electron` `Silero VAD` `SQLite`
+`PyTorch` `Hugging Face` `DistilBERT` `DDPM/DDIM` `VAE` `U-Net` `Mixed Precision` `Colab T4`
 
 ---
 
-#### [🌦️ Weather Data ETL Pipeline](https://github.com/Ishanhirani11/weather-etl-pipeline)
-Automated ETL pulling weather for **10+ cities every 6 hours** via REST API → transforms with Pandas → loads ~**5,000 records/day** into MySQL → Cron-scheduled, zero manual intervention.
+### [HIK — Voice-Based Virtual Assistant](https://github.com/Ishanhirani11/hik-voice-assistant)
+Zero-cost, offline-capable voice assistant built over 12 weeks across 9 engineering phases with 40+ files QA-audited. 9-stage pipeline: microphone capture (sounddevice, 16kHz) → wake word (OpenWakeWord, "Hey Jarvis") → VAD (Silero neural) → dual STT (Whisper primary, Vosk fallback) → intent classification (9 types) → skill execution (6 skills) → TTS (4-level fallback: Piper → gTTS → System → GUI). ChromaDB vector memory with MiniLM embeddings for long-term semantic recall. Electron GUI with WebSocket bridge. Runs on macOS and Windows from a single codebase.
+
+`Python` `Whisper` `Vosk` `Piper` `ChromaDB` `Electron` `Silero VAD` `SQLite` `WebSocket`
+
+---
+
+### [Automated Weather ETL Pipeline](https://github.com/Ishanhirani11/weather-etl-pipeline)
+Production-style ETL pipeline that extracts weather data for 10+ cities every 6 hours via the OpenWeatherMap REST API. Transforms raw JSON with Pandas — normalization, deduplication, null handling. Loads ~5,000 records/day into MySQL. Cron-scheduled, no manual intervention. 30+ days of history available for downstream ML forecasting.
 
 `Python` `Pandas` `OpenWeatherMap API` `MySQL` `SQLite` `Cron`
 
 ---
 
-### 🛠️ Tech Stack
+## Experience
 
-<div align="center">
+**AI & ML Intern — UNIKWORK** &nbsp; `Jan 2026 – Apr 2026`
+Built ETL pipelines, REST APIs (Flask/Django), and ML workflows — EDA, feature engineering, model evaluation — for production data-driven applications.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=python&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+**AI Intern — IBM Skillbox** &nbsp; `Jul 2025`
+Built Water Guardian, a multi-turn AI chatbot using Gemini 1.5 API for automated civic complaint routing via NLP-based intent classification.
 
 ---
 
-### 📈 GitHub Stats
+## Tech Stack
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ishanhirani11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanhirani11&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
+**Data Engineering**
+`Python` `PostgreSQL` `MySQL` `SQLite` `Apache Airflow` `Selenium` `BeautifulSoup` `Pandas` `NumPy` `SQLAlchemy` `ETL Pipelines` `REST APIs` `Google Sheets API`
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishanhirani11&theme=tokyonight&hide_border=true"/>
-</div>
+**AI / ML**
+`PyTorch` `Scikit-learn` `Hugging Face Transformers` `DistilBERT` `DDPM/DDIM` `ChromaDB` `Gemini API` `Groq` `NLP` `Deep Learning` `LLM Integration`
+
+**Tools**
+`Git` `GitHub` `Flask` `Django` `Jupyter` `VS Code` `Linux`
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+## GitHub Stats
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-</div>
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ishanhirani11&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=0366d6&icon_color=0366d6"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanhirani11&layout=compact&langs_count=6&theme=default&hide_border=true&title_color=0366d6"/>
+</p>
