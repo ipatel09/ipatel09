@@ -199,14 +199,14 @@ Built *Water Guardian* — a multi-turn AI chatbot using Gemini 1.5 API for auto
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ishanhirani11&show_icons=true&theme=transparent&hide_border=true&title_color=533483&icon_color=0F3460&text_color=555555&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=g00562&show_icons=true&theme=transparent&hide_border=true&title_color=533483&icon_color=0F3460&text_color=555555&include_all_commits=true&count_private=true"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanhirani11&layout=compact&langs_count=7&theme=transparent&hide_border=true&title_color=533483&text_color=555555"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ishanhirani11&theme=transparent&hide_border=true&ring=533483&fire=0F3460&currStreakLabel=533483&sideLabels=555555&dates=888888&sideNums=533483&currStreakNum=0F3460)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=g00562&theme=transparent&hide_border=true&ring=533483&fire=0F3460&currStreakLabel=533483&sideLabels=555555&dates=888888&sideNums=533483&currStreakNum=0F3460)](https://git.io/streak-stats)
 
 </div>
 
