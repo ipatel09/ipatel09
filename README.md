@@ -10,7 +10,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/hiraniishan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiraniishan17@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK)
-![Profile Views](https://komarev.com/ghpvc/?username=Ishanhirani11&style=for-the-badge&color=7B2FBE&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=g00562&style=for-the-badge&color=7B2FBE&label=PROFILE+VIEWS)
 
 </div>
 
