@@ -159,7 +159,7 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ishanhirani11&theme=transparent&hide_border=true&ring=0A66C2&fire=EA4335&currStreakLabel=0A66C2&sideLabels=555555&dates=888888&sideNums=0A66C2&currStreakNum=0A66C2&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ishanhirani11&theme=transparent&hide_border=true&ring=0A66C2&fire=EA4335&currStreakLabel=0A66C2&sideLabels=555555&dates=888888&sideNums=0A66C2&currStreakNum=0A66C2&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
