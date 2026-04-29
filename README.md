@@ -57,9 +57,9 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 
 <div align="center">
 
-| 📦 **2,322+** | ⚙️ **7-Task** | 🧬 **1,000-Step** | 🎙️ **9-Stage** | 🏢 **2** | 📁 **4** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Records/day | Airflow DAG | DDPM Training | Voice Pipeline | Internships | Live Projects |
+| ⚙️ **7-Task** | 🧬 **1,000-Step** | 🎙️ **9-Stage** | 🏢 **2** | 📁 **4** |
+|:---:|:---:|:---:|:---:|:---:|
+| Airflow DAG | DDPM Training | Voice Pipeline | Internships | Live Projects |
 
 </div>
 
