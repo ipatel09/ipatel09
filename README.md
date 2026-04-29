@@ -65,31 +65,6 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 
 ---
 
-## 💼 Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔹 AI & ML Intern** — UNIKWORK
-`Jan 2026 – Apr 2026 · Surat`
-
-Built production ETL pipelines, REST API backends with Flask and Django, and supervised ML workflows using Pandas, NumPy, Scikit-learn across real-world datasets.
-
-</td>
-<td width="50%" valign="top">
-
-**🔹 AI Intern** — IBM Skillbox
-`Jul 2025 · 1 month`
-
-Built *Water Guardian* — a multi-turn AI chatbot using Gemini 1.5 API for automated civic complaint routing via NLP-based intent classification and prompt engineering.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -108,16 +83,38 @@ Built *Water Guardian* — a multi-turn AI chatbot using Gemini 1.5 API for auto
 
 </div>
 
+<br/>
+
 <div align="center">
 
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0A192F?style=flat-square&logo=python&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+**Data Engineering**
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3C873A?style=for-the-badge&logo=python&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-0A192F?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cron](https://img.shields.io/badge/Cron%20Scheduling-4A4A4A?style=for-the-badge&logo=linux&logoColor=white)
+
+**AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+**LLM & Vector**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0A192F?style=for-the-badge&logo=python&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F54B27?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -141,16 +138,6 @@ Built *Water Guardian* — a multi-turn AI chatbot using Gemini 1.5 API for auto
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishanhirani11&bg_color=transparent&color=0A66C2&line=0A66C2&point=EA4335&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ishanhirani11&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
