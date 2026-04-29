@@ -14,11 +14,79 @@
 
 ## 👨‍💻 About Me
 
-Final-year **B.Tech AI & Data Science** at Government Engineering College, Rajkot (2026). I build end-to-end data pipelines and AI systems — from multi-source ETL orchestration with Airflow and PostgreSQL to training diffusion models from scratch in PyTorch. Interned at **UNIKWORK** and **IBM Skillbox** building production data systems and LLM-integrated applications.
+Final-year **B.Tech AI & Data Science** at Government Engineering College, Rajkot — Class of 2026. I build end-to-end data pipelines and AI systems — from multi-source ETL orchestration with Airflow and PostgreSQL to training diffusion models from scratch in PyTorch. Interned at **UNIKWORK** and **IBM Skillbox** building production data systems and LLM-integrated applications.
 
-Open to **Data Engineer** and **AI/ML Engineer** roles. Available in **15 days** · Gujarat, India 🇮🇳
+Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days** · Gujarat, India 🇮🇳
 
 > *"Pipelines don't fail by accident — they fail by neglect. Build them right the first time."*
+
+---
+
+## ⚡ What I Specialize In
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🗄️ Data Engineering**
+- Multi-source ETL pipelines (REST API, Selenium, RapidAPI)
+- PostgreSQL schema design & query optimization
+- Apache Airflow DAG orchestration & scheduling
+- Data cleaning, transformation, deduplication at scale
+- Web scraping with BeautifulSoup & Selenium
+- Automated workflows with Cron & task scheduling
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 AI / Machine Learning**
+- Deep learning model architecture from scratch (PyTorch)
+- Latent Diffusion Models — VAE, U-Net, DDPM/DDIM
+- LLM integration — Gemini, Groq, prompt engineering
+- Vector databases & semantic search (ChromaDB)
+- NLP pipelines — intent classification, skill extraction
+- Offline-first AI systems with hybrid architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 By the Numbers
+
+<div align="center">
+
+| 📦 **2,322+** | ⚙️ **7-Task** | 🧬 **1,000-Step** | 🎙️ **9-Stage** | 🏢 **2** | 📁 **4** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Records/day | Airflow DAG | DDPM Training | Voice Pipeline | Internships | Live Projects |
+
+</div>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔹 AI & ML Intern** — UNIKWORK
+`Jan 2026 – Apr 2026 · Surat`
+
+Built production ETL pipelines, REST API backends with Flask and Django, and supervised ML workflows using Pandas, NumPy, Scikit-learn across real-world datasets.
+
+</td>
+<td width="50%" valign="top">
+
+**🔹 AI Intern** — IBM Skillbox
+`Jul 2025 · 1 month`
+
+Built *Water Guardian* — a multi-turn AI chatbot using Gemini 1.5 API for automated civic complaint routing via NLP-based intent classification and prompt engineering.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,21 +117,9 @@ Open to **Data Engineer** and **AI/ML Engineer** roles. Available in **15 days**
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0A192F?style=flat-square&logo=python&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Projects
-
-| Project | Stack | Link |
-|:---|:---|:---:|
-| **📊 Job Market Intelligence Pipeline** — Multi-source ETL · Naukri + LinkedIn + Indeed · PostgreSQL · 7-task Airflow DAG · 2,300+ records/day · NLP skill extraction | `Python` `PostgreSQL` `Airflow` `Selenium` `RapidAPI` | [→](https://github.com/Ishanhirani11/job-market-pipeline) |
-| **🎨 Text-to-Image LDM from Scratch** — VAE + U-Net + DistilBERT + DDPM/DDIM · 1000-step training · 50-step inference · CFG · Flickr30k · zero APIs | `PyTorch` `Hugging Face` `DistilBERT` `DDPM/DDIM` `Colab T4` | [→](https://github.com/Ishanhirani11/text-to-image-ldm) |
-| **🎙️ HIK — Voice-Based Assistant** — 9-stage pipeline · dual STT (Whisper + Vosk) · 4-level TTS · ChromaDB memory · Electron GUI · offline-first · 12 weeks | `Python` `Whisper` `ChromaDB` `Electron` `Silero VAD` | [→](https://github.com/Ishanhirani11/hik-voice-assistant) |
-| **🌦️ Weather ETL Pipeline** — 10+ cities · REST API · Pandas transforms · 5,000 records/day · MySQL · Cron-automated | `Python` `Pandas` `MySQL` `OpenWeatherMap API` `Cron` | [→](https://github.com/Ishanhirani11/weather-etl-pipeline) |
-| **💧 Water Guardian** — Civic AI chatbot · Gemini 1.5 API · NLP intent classification · prompt engineering · IBM Skillbox | `Python` `Gemini API` `Prompt Engineering` `LLMs` | [→](https://github.com/Ishanhirani11/Water-Guardian-Chatbot) |
 
 ---
 
@@ -90,10 +146,20 @@ Open to **Data Engineer** and **AI/ML Engineer** roles. Available in **15 days**
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishanhirani11&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-hirani)
-&nbsp;
+&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiraniishan17@gmail.com)
 
 </div>
