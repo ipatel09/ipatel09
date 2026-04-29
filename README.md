@@ -4,9 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-hirani)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hiraniishan)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiraniishan17@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-0A192F?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK)
-![Views](https://komarev.com/ghpvc/?username=Ishanhirani11&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelishan981@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=g00562&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)
 
 </div>
 
@@ -68,18 +67,6 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,selenium,pytorch,sklearn,flask&theme=dark&perline=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,selenium,pytorch,sklearn,flask&theme=light&perline=8"/>
-  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,selenium,pytorch,sklearn,flask&perline=8"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=django,git,github,vscode,linux,docker,fastapi,aws&theme=dark&perline=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=django,git,github,vscode,linux,docker,fastapi,aws&theme=light&perline=8"/>
-  <img src="https://skillicons.dev/icons?i=django,git,github,vscode,linux,docker,fastapi,aws&perline=8"/>
-</picture>
 
 <br/>
 
@@ -171,7 +158,7 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-hirani)
 &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiraniishan17@gmail.com)
+[![Gmail](https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelishan981@gmail.com)
 
 </div>
 
