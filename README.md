@@ -97,6 +97,10 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 ![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-0A192F?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cron](https://img.shields.io/badge/Cron%20Scheduling-4A4A4A?style=for-the-badge&logo=linux&logoColor=white)
+![psycopg2](https://img.shields.io/badge/psycopg2-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Sheets API](https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![loguru](https://img.shields.io/badge/loguru-2C2C2C?style=for-the-badge&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 **AI & Machine Learning**
 
@@ -106,6 +110,10 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=python&logoColor=white)
 
 **LLM & Vector**
 
@@ -115,6 +123,8 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MiniLM](https://img.shields.io/badge/MiniLM-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -124,20 +134,25 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ishanhirani11&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=555&include_all_commits=true&count_private=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanhirani11&layout=compact&langs_count=7&theme=transparent&hide_border=true&title_color=0A66C2&text_color=555"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ishanhirani11&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=555555&include_all_commits=true&count_private=true&rank_icon=github"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ishanhirani11&theme=transparent&hide_border=true&ring=0A66C2&fire=EA4335&currStreakLabel=0A66C2&sideLabels=555&dates=888&sideNums=0A66C2&currStreakNum=0A66C2)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanhirani11&layout=donut&langs_count=8&theme=transparent&hide_border=true&title_color=0A66C2&text_color=555555&hide=jupyter%20notebook,html,css,shell"/>
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishanhirani11&bg_color=transparent&color=0A66C2&line=0A66C2&point=EA4335&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ishanhirani11&theme=transparent&hide_border=true&ring=0A66C2&fire=EA4335&currStreakLabel=0A66C2&sideLabels=555555&dates=888888&sideNums=0A66C2&currStreakNum=0A66C2&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishanhirani11&bg_color=transparent&color=0A66C2&line=0A66C2&point=EA4335&area=true&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
