@@ -141,7 +141,8 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanhirani11&layout=donut&langs_count=8&theme=transparent&hide_border=true&title_color=0A66C2&text_color=555555&hide=jupyter%20notebook,html,css,shell"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g00562
+&layout=donut&langs_count=8&theme=transparent&hide_border=true&title_color=0A66C2&text_color=555555&hide=jupyter%20notebook,html,css,shell"/>
 
 </div>
 
