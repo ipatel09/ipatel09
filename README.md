@@ -69,18 +69,6 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,selenium,pytorch,sklearn,flask&theme=dark&perline=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,selenium,pytorch,sklearn,flask&theme=light&perline=8"/>
-  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,selenium,pytorch,sklearn,flask&perline=8"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=django,git,github,vscode,linux,docker,fastapi,aws&theme=dark&perline=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=django,git,github,vscode,linux,docker,fastapi,aws&theme=light&perline=8"/>
-  <img src="https://skillicons.dev/icons?i=django,git,github,vscode,linux,docker,fastapi,aws&perline=8"/>
-</picture>
-
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
