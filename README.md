@@ -57,9 +57,9 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 
 <div align="center">
 
-| ⚙️ **7-Task** | 🧬 **1,000-Step** | 🎙️ **9-Stage** | 🏢 **2** | 📁 **4** |
-|:---:|:---:|:---:|:---:|:---:|
-| Airflow DAG | DDPM Training | Voice Pipeline | Internships | Live Projects |
+| 📦 **2,322+** | ⚙️ **7-Task** | 🧬 **1,000-Step** | 🎙️ **9-Stage** | 🏢 **2** | 📁 **4** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Records/day | Airflow DAG | DDPM Training | Voice Pipeline | Internships | Live Projects |
 
 </div>
 
@@ -68,6 +68,18 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,selenium,pytorch,sklearn,flask&theme=dark&perline=8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,selenium,pytorch,sklearn,flask&theme=light&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,selenium,pytorch,sklearn,flask&perline=8"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=django,git,github,vscode,linux,docker,fastapi,aws&theme=dark&perline=8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=django,git,github,vscode,linux,docker,fastapi,aws&theme=light&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=django,git,github,vscode,linux,docker,fastapi,aws&perline=8"/>
+</picture>
 
 <br/>
 
@@ -141,8 +153,7 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g00562
-&layout=donut&langs_count=8&theme=transparent&hide_border=true&title_color=0A66C2&text_color=555555&hide=jupyter%20notebook,html,css,shell"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanhirani11&layout=donut&langs_count=8&theme=transparent&hide_border=true&title_color=0A66C2&text_color=555555&hide=jupyter%20notebook,html,css,shell"/>
 
 </div>
 
@@ -152,11 +163,7 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 
 </div>
 
-<div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishanhirani11&bg_color=transparent&color=0A66C2&line=0A66C2&point=EA4335&area=true&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
