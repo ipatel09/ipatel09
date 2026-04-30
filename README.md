@@ -131,16 +131,14 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 ---
 
 ## 📊 GitHub Stats
- 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ishanhirani11&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=555555&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanhirani11&layout=compact&langs_count=12&theme=transparent&hide_border=true&title_color=0A66C2&text_color=555555" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ishanhirani11&theme=transparent&hide_border=true&ring=0A66C2&fire=EA4335&currStreakLabel=0A66C2&sideLabels=555555&dates=888888&sideNums=0A66C2&currStreakNum=0A66C2" />
-</div>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ipatel09&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ipatel09&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
