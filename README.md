@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-hirani)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hiraniishan)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelishan981@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=g00562&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=ipatel09&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)
 
 </div>
 
@@ -134,19 +134,19 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=g00562&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=555555&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ipatel09&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=555555&include_all_commits=true&count_private=true&rank_icon=github"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g00562&layout=donut-vertical&langs_count=12&theme=transparent&hide_border=true&title_color=0A66C2&text_color=555555&size_weight=0.5&count_weight=0.5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipatel09&layout=donut-vertical&langs_count=12&theme=transparent&hide_border=true&title_color=0A66C2&text_color=555555&size_weight=0.5&count_weight=0.5"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=g00562&theme=transparent&hide_border=true&ring=0A66C2&fire=EA4335&currStreakLabel=0A66C2&sideLabels=555555&dates=888888&sideNums=0A66C2&currStreakNum=0A66C2&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=ipatel09&theme=transparent&hide_border=true&ring=0A66C2&fire=EA4335&currStreakLabel=0A66C2&sideLabels=555555&dates=888888&sideNums=0A66C2&currStreakNum=0A66C2&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
