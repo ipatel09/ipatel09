@@ -4,8 +4,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-hirani)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hiraniishan)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelishan981@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=ipatel09&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiraniishan17@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-0A192F?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK)
+![Views](https://komarev.com/ghpvc/?username=Ishanhirani11&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)
 
 </div>
 
@@ -67,6 +68,18 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,selenium,pytorch,sklearn,flask&theme=dark&perline=8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,selenium,pytorch,sklearn,flask&theme=light&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,selenium,pytorch,sklearn,flask&perline=8"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=django,git,github,vscode,linux,docker,fastapi,aws&theme=dark&perline=8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=django,git,github,vscode,linux,docker,fastapi,aws&theme=light&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=django,git,github,vscode,linux,docker,fastapi,aws&perline=8"/>
+</picture>
 
 <br/>
 
@@ -133,21 +146,12 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ipatel09&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=555555&include_all_commits=true&count_private=true&rank_icon=github"/>
-
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ishanhirani11&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=555555&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanhirani11&layout=compact&langs_count=12&theme=transparent&hide_border=true&title_color=0A66C2&text_color=555555" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipatel09&layout=donut-vertical&langs_count=12&theme=transparent&hide_border=true&title_color=0A66C2&text_color=555555&size_weight=0.5&count_weight=0.5"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ipatel09&theme=transparent&hide_border=true&ring=0A66C2&fire=EA4335&currStreakLabel=0A66C2&sideLabels=555555&dates=888888&sideNums=0A66C2&currStreakNum=0A66C2&date_format=j%20M%5B%20Y%5D)
-
+  <img src="https://streak-stats.demolab.com?user=Ishanhirani11&theme=transparent&hide_border=true&ring=0A66C2&fire=EA4335&currStreakLabel=0A66C2&sideLabels=555555&dates=888888&sideNums=0A66C2&currStreakNum=0A66C2" />
 </div>
 
 
@@ -158,7 +162,7 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-hirani)
 &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelishan981@gmail.com)
+[![Gmail](https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiraniishan17@gmail.com)
 
 </div>
 
