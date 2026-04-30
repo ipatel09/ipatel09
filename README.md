@@ -133,11 +133,11 @@ Open to **Data Engineer** and **AI/ML Engineer** roles · Available in **15 days
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ipatel09&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ipatel09&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ipatel09&theme=radical" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/ipatel09" />
 </p>
 
 ---
